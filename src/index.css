@@ -9,12 +9,12 @@
         padding: 40px;
     }
         .card-two {
-            background: hsl(184, 100%, 22%);
+            background: #006970;
             color: white;
             padding: 40px;
         }
                 .card-three {
-                    background: hsl(179, 100%, 13%);
+                    background: #004241;
                     color: white;
                     padding: 40px;
                 }
