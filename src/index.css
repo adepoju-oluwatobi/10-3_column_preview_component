@@ -11,11 +11,11 @@
         .card-two {
             background: hsl(184, 100%, 22%);
             color: white;
-            padding: 10px;
+            padding: 40px;
         }
                 .card-three {
                     background: hsl(179, 100%, 13%);
                     color: white;
-                    padding: 10px;
+                    padding: 40px;
                 }
 }
