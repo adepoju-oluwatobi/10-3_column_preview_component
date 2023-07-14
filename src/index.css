@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer components{
+    .card-one{
+        background: #e38826;
+        color: white;
+        padding: 40px;
+    }
+        .card-two {
+            background: hsl(184, 100%, 22%);
+            color: white;
+            padding: 10px;
+        }
+                .card-three {
+                    background: hsl(179, 100%, 13%);
+                    color: white;
+                    padding: 10px;
+                }
+}
